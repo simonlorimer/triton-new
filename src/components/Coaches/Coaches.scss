@@ -1,0 +1,16 @@
+@import "../../constants/variables";
+
+.coaches {
+
+    color: $skin;
+
+    .profile {
+        border: 1px solid $skin;
+        border-radius: 12px;
+
+        img {
+            max-width: 500px;
+            max-height: 500px;
+        }
+    }
+}

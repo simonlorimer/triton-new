@@ -1,0 +1,8 @@
+export default function Gallery() {
+    return (
+        <div className="gallery">
+            <p>gallery</p>
+        </div>
+    );
+
+}
